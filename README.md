@@ -1,2 +1,2 @@
 # DGIVF
-Our code will be published after accpet
+Our code will be published after our paper be accpeted
